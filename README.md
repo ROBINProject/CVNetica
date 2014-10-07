@@ -3,7 +3,7 @@ Version 1.0 --- July 17, 2014
 
 Documentation: 
 
-*Fienen, M.N., and Plant, N.G., 2014--in press, A cross-validation package driving Netica with Python* 
+*Fienen, M.N. and Plant, N.G., 2015, A cross-validation package driving Netica with Python. Environmental Modelling and Software 63 (14–23) doi: 10.1016/j.envsoft.2014.09.007.* 
 
 GENERAL USE
 The driver program is CVDriver.py
